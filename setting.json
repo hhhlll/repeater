@@ -4,72 +4,72 @@
     {
       "name": "设置",
       "content": "",
-      "type"0
+      "type": 0
     },
     {
       "name": "音频文件排序方式",
       "content": "",
-      "type"2
+      "type": 2
     },
     {
       "name": "锁屏及耳机控制方式",
       "content": "",
-      "type"2
+      "type": 2
     },
     {
       "name": "歌词字体大小",
       "content": "",
-      "type"2
+      "type": 2
     },
     {
       "name": "首页默认显示页面",
       "content": "",
-      "type"2
+      "type": 2
     },
     {
       "name": "自动断句最小时间间隔",
       "content": "",
-      "type"2
+      "type": 2
     },
     {
       "name": "录音动画类型",
       "content": "",
-      "type"2
+      "type": 2
     },
     {
       "name": "变速音质选择",
       "content": "",
-      "type"2
+      "type": 2
     },
     {
       "name": "定时提醒",
       "content": "",
-      "type"2
+      "type": 2
     },
     {
       "name": "下一曲触发时间",
       "content": "",
-      "type"2
+      "type": 2
     },
     {
       "name": "语言",
       "content": "",
-      "type"2
+      "type": 2
     },
     {
       "name": "进入歌曲自动播放",
       "content": "",
-      "type"2
+      "type": 2
     },
     {
       "name": "记忆播放位置",
       "content": "",
-      "type"2
+      "type": 2
     },
     {
       "name": "夜间模式",
       "content": "",
-      "type"2
+      "type": 2
     }
   ]
 }
